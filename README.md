@@ -391,7 +391,7 @@
 [Back to the Top](https://github.com/mikeroyal/Biostatistics-Guide#table-of-contents)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/94961906-704d5600-04aa-11eb-8721-34266eee5200.png">
+ <img src="https://user-images.githubusercontent.com/45159366/126396985-130c91c7-9db4-4b74-90f8-d11c1876fdd4.png">
   <br />
 </p>
 
