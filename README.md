@@ -819,13 +819,13 @@
   <br />
 </p>
 
-**[Start building with F# on Azure](https://docs.microsoft.com/en-us/dotnet/fsharp/using-fsharp-on-azure/)**
-
-**[F# Documentation](https://docs.microsoft.com/en-us/dotnet/fsharp/)**
-
 ##  F# Learning Resources
 
 [F#](https://fsharp.org/) is a mature, open source, cross-platform, functional-first programming language. It empowers users and organizations to tackle complex computing problems with simple, maintainable and robust code.
+
+[F# Documentation](https://docs.microsoft.com/en-us/dotnet/fsharp/)
+
+[Start building with F# on Azure](https://docs.microsoft.com/en-us/dotnet/fsharp/using-fsharp-on-azure/)
 
 [What is F#](https://docs.microsoft.com/en-us/dotnet/fsharp/what-is-fsharp)
 
@@ -882,10 +882,6 @@
 
 </p>
 
-**[Start building with .NET on Azure](https://aka.ms/azsdk/net)**
-
-**[.NET Documentation](https://aka.ms/azsdk/net/docs)**
-
 ## .NET Learning Resources
 
 [.NET](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet) is a developer platform with tools and libraries for building any type of app, including web, mobile, desktop, games, IoT, cloud, and microservices.
@@ -893,6 +889,8 @@
 [.NET documentation](https://docs.microsoft.com/en-us/dotnet/fundamentals/)
 
 [Getting started with .NET](https://docs.microsoft.com/en-us/dotnet/standard/get-started)
+
+[Start building with .NET on Azure](https://aka.ms/azsdk/net)
 
 [.NET Application Architecture Guide](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
 
