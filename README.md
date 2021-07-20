@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/126396103-81e97044-8105-419c-be5f-35fdd2129060.png">
   <br />
   Biostatistics Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/126396107-14d600af-e2cc-4aad-95b8-f20808624bdb.png">
   <br />
 </p>
 
@@ -238,9 +238,7 @@
 [cuML](https://github.com/rapidsai/cuml) is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 # Algorithms
-[Back to the Top](https://github.com/mikeroyal/Bioinformatics-Guide#table-of-contents)
-
-**[Algorithms in Bioinformatics: A Practical Introduction](https://www.comp.nus.edu.sg/~ksung/algo_in_bioinfo/)**
+[Back to the Top](https://github.com/mikeroyal/Biostatistics-Guide#table-of-contents)
 
 **[An Introduction to Bioinformatics Algorithms - UCSD (PDF)](https://bix.ucsd.edu/bioalgorithms/presentations/Ch08_GraphsDNAseq.pdf)**
 
